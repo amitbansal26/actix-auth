@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d68a41c1-c963-48e5-8d92-b332f8c0ab62" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,18 +64,26 @@
       <option name="project" value="LOCAL" />
       <updated>1606608888951</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added database layer">
+      <created>1606639988342</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606639988342</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added docker compose" />
-    <option name="LAST_COMMIT_MESSAGE" value="added docker compose" />
+    <MESSAGE value="added database layer" />
+    <option name="LAST_COMMIT_MESSAGE" value="added database layer" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="89" width="805" height="903" key="CommitChangelistDialog2" timestamp="1606608888797">
+    <state x="574" y="89" width="805" height="903" key="CommitChangelistDialog2" timestamp="1606639988276">
       <screen x="40" y="0" width="1880" height="1080" />
     </state>
-    <state x="574" y="89" width="805" height="903" key="CommitChangelistDialog2/40.0.1880.1080@40.0.1880.1080" timestamp="1606608888797" />
+    <state x="574" y="89" width="805" height="903" key="CommitChangelistDialog2/40.0.1880.1080@40.0.1880.1080" timestamp="1606639988276" />
     <state x="849" y="441" key="Github.ShareDialog" timestamp="1606600842523">
       <screen x="40" y="0" width="1880" height="1080" />
     </state>
@@ -90,9 +96,9 @@
       <screen x="40" y="0" width="1880" height="1080" />
     </state>
     <state x="476" y="176" key="SettingsEditor/40.0.1880.1080@40.0.1880.1080" timestamp="1606596285106" />
-    <state x="575" y="277" width="804" height="528" key="Vcs.Push.Dialog.v2" timestamp="1606608891078">
+    <state x="575" y="277" width="804" height="528" key="Vcs.Push.Dialog.v2" timestamp="1606639989628">
       <screen x="40" y="0" width="1880" height="1080" />
     </state>
-    <state x="575" y="277" width="804" height="528" key="Vcs.Push.Dialog.v2/40.0.1880.1080@40.0.1880.1080" timestamp="1606608891078" />
+    <state x="575" y="277" width="804" height="528" key="Vcs.Push.Dialog.v2/40.0.1880.1080@40.0.1880.1080" timestamp="1606639989628" />
   </component>
 </project>
