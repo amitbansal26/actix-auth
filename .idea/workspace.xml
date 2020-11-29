@@ -4,7 +4,10 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d68a41c1-c963-48e5-8d92-b332f8c0ab62" name="Default Changelist" comment="" />
+    <list default="true" id="d68a41c1-c963-48e5-8d92-b332f8c0ab62" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +60,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="849" y="441" key="Github.ShareDialog" timestamp="1606600842523">
+      <screen x="40" y="0" width="1880" height="1080" />
+    </state>
+    <state x="849" y="441" key="Github.ShareDialog/40.0.1880.1080@40.0.1880.1080" timestamp="1606600842523" />
+    <state x="796" y="228" width="361" height="626" key="Github.UntrackedFilesDialog" timestamp="1606600848087">
+      <screen x="40" y="0" width="1880" height="1080" />
+    </state>
+    <state x="796" y="228" width="361" height="626" key="Github.UntrackedFilesDialog/40.0.1880.1080@40.0.1880.1080" timestamp="1606600848087" />
     <state x="476" y="176" key="SettingsEditor" timestamp="1606596285106">
       <screen x="40" y="0" width="1880" height="1080" />
     </state>
